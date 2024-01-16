@@ -2,11 +2,11 @@ Overview
 The Secure Bank application is a secure and efficient banking system built using Java and Spring Boot. It provides a robust platform for managing various banking operations securely.
 
 Features
-User Authentication: Secure login and registration for customers.
-Account Management: Create, view, and manage bank accounts.
-Transactions: Perform secure transactions, including deposits and withdrawals.
-Security: Implement strong security measures to protect user data.
-Admin Dashboard: Administrative tools for managing system settings and user accounts.
+* User Authentication: Secure login and registration for customers.
+* Account Management: Create, view, and manage bank accounts.
+* Transactions: Perform secure transactions, including deposits and withdrawals.
+* Security: Implement strong security measures to protect user data.
+* Admin Dashboard: Administrative tools for managing system settings and user accounts.
 
 Roadmap
 Designing the database schema for banking-related entities
